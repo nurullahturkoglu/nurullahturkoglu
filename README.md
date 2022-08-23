@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nurullah</h1>
-<h3 align="center">I just like web development 🧑‍💻</h3>
+<h3 align="center">I just like web development 💻</h3>
 
 
 - 🔭 I’m currently working on [Chat App](https://github.com/nurullahturkoglu/chat-app-react-nodejs-socketio-mongodb)
