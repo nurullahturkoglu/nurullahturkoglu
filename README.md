@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nurullah</h1>
-<h3 align="center">I just like web development 💻</h3>
+<h3 align="center">I love web development & data structures 💻</h3>
+</br>
 
 
-- 🔭 I’m currently working on [Chat App](https://github.com/nurullahturkoglu/chat-app-react-nodejs-socketio-mongodb)
-
-- 🌱 I’m currently learning **React & Node.js**
+- 🔭 I’m currently working Full Stack Developer at [Scove-system](https://scove-systems.com/)
 
 - 📝 I regularly write articles on [https://scriptyuvasi.com/](https://scriptyuvasi.com/)
 
