@@ -29,5 +29,3 @@ Merged pull requests from 2026:
 | [leancodepl/patrol](https://github.com/leancodepl/patrol) | Keep quoted text together when splitting the Flutter command ([#3315](https://github.com/leancodepl/patrol/pull/3315)) |
 | [lichess-org/mobile](https://github.com/lichess-org/mobile) | Fix share sheet position on iPad ([#3837](https://github.com/lichess-org/mobile/pull/3837)) |
 | [CodeBeam.MudBlazor.Extensions](https://github.com/CodeBeamOrg/CodeBeam.MudBlazor.Extensions) | CodeInput: focus the last box when all boxes are filled ([#651](https://github.com/CodeBeamOrg/CodeBeam.MudBlazor.Extensions/pull/651)) |
-
-[All merged pull requests](https://github.com/search?q=author%3Anurullahturkoglu+is%3Apr+is%3Amerged+-user%3Anurullahturkoglu&type=pullrequests)
