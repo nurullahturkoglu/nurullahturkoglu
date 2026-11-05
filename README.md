@@ -2,8 +2,6 @@
 
 Software engineer with 3+ years on core banking systems for participation banks, in C#/.NET and SQL Server. I've delivered loan features and regulatory and third-party integrations on microservice banking platforms.
 
-I built the Oynaya preschool activity app in Flutter for [iOS](https://apps.apple.com/app/id6463905433), [Android](https://play.google.com/store/apps/details?id=net.oynayaoynaya.etkinlik) and [Windows](https://apps.microsoft.com/detail/9nj5gzvrvzs2). It has 20,000+ users. I also send fixes upstream to the .NET and Flutter libraries I use.
-
 [scriptyuvasi.com](https://scriptyuvasi.com) · [LinkedIn](https://www.linkedin.com/in/nurullahturkoglu/)
 
 ### Projects
